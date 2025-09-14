@@ -1,0 +1,39 @@
+.card-main {
+    background-color: white;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    width: 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 550px;
+    
+    
+    
+}
+.card-main h2 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+    color: rgb(8, 12, 11);
+}
+.card-main p {
+    color: gray;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+
+
+.main-content {
+    background: linear-gradient(215deg, #ffffff, #308128, #000);
+
+
+}
+.cards-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
